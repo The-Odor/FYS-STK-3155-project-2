@@ -1,0 +1,11 @@
+# LaTeX
+*.log
+*.aux
+*.bcf
+*.out
+*.run.xml
+*.syntez.gz
+*.tex.bak
+
+# Python
+.pyc

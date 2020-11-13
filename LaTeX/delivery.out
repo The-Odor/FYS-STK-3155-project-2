@@ -1,0 +1,27 @@
+\BOOKMARK [1][-]{section.1}{Introduction}{}% 1
+\BOOKMARK [2][-]{subsection.1.1}{The structure of the source code and filesystem}{section.1}% 2
+\BOOKMARK [2][-]{subsection.1.2}{Franke function}{section.1}% 3
+\BOOKMARK [2][-]{subsection.1.3}{MNIST dataset}{section.1}% 4
+\BOOKMARK [2][-]{subsection.1.4}{Ordinary Least Squares \(OLS\) and Ridge}{section.1}% 5
+\BOOKMARK [2][-]{subsection.1.5}{Stochastic Gradient Descent \(SGD\)}{section.1}% 6
+\BOOKMARK [3][-]{subsubsection.1.5.1}{Momentum}{subsection.1.5}% 7
+\BOOKMARK [3][-]{subsubsection.1.5.2}{Minibatching}{subsection.1.5}% 8
+\BOOKMARK [3][-]{subsubsection.1.5.3}{Varying step length}{subsection.1.5}% 9
+\BOOKMARK [2][-]{subsection.1.6}{Logistic Regression}{section.1}% 10
+\BOOKMARK [3][-]{subsubsection.1.6.1}{l2 regularization parameter}{subsection.1.6}% 11
+\BOOKMARK [2][-]{subsection.1.7}{Neural Network}{section.1}% 12
+\BOOKMARK [1][-]{section.2}{Method}{}% 13
+\BOOKMARK [2][-]{subsection.2.1}{SGD}{section.2}% 14
+\BOOKMARK [2][-]{subsection.2.2}{Logistic Regression}{section.2}% 15
+\BOOKMARK [2][-]{subsection.2.3}{Neural Network}{section.2}% 16
+\BOOKMARK [1][-]{section.3}{Results/Discussion}{}% 17
+\BOOKMARK [2][-]{subsection.3.1}{SGD}{section.3}% 18
+\BOOKMARK [2][-]{subsection.3.2}{Logistic Regression}{section.3}% 19
+\BOOKMARK [2][-]{subsection.3.3}{Neural Network}{section.3}% 20
+\BOOKMARK [2][-]{subsection.3.4}{Comparing the algorithms}{section.3}% 21
+\BOOKMARK [3][-]{subsubsection.3.4.1}{Regression}{subsection.3.4}% 22
+\BOOKMARK [3][-]{subsubsection.3.4.2}{Classification}{subsection.3.4}% 23
+\BOOKMARK [2][-]{subsection.3.5}{Improvements}{section.3}% 24
+\BOOKMARK [1][-]{section.4}{Conclusion}{}% 25
+\BOOKMARK [1][-]{section.5}{References}{}% 26
+\BOOKMARK [1][-]{section.6}{Appendix}{}% 27

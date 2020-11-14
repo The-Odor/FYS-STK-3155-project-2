@@ -140,8 +140,6 @@ This report compares a neural network to numerical stochastic gradient descent l
 \end{abstract}
 
 \section{Introduction}
-[Start the introduction with a motivation of the topic, then move on to a discussion of the structure of the report.]
-
 A neural network is a very flexible data analysis tool that can grant a large amount of knowledge about correlations between features when applied to a large enough volume of data, but it requires a lot of optimization and parametrization. It is therefore important to ascertain that it does perform well enough to be worth the time and resources building and training it takes.
 
 In this project, I first implement and study Stochastic Gradient Descent where I compare it as a simple numerical approach with analytical approaches in OLS and Ridge and use them as a basis to determine how well the neural network performs linear regression. I implement and study a logistic regressor as a basis to determine how well the neural network performs classification. Finally, I implement and study a Neural Network as the most detailedly implemented algorithm, and studied determined whether it outperformed the previously mentioned algorithms for linear regression and classification.
@@ -479,7 +477,6 @@ In this project I have exclusively used the MNIST dataset and the Franke functio
 The neural network outperforms all other tried methods (SGD, Ridge, and OLS) for linear regression based on $R^2$-score. The neural network is outperformed by a logistic regression-algorithm when used for classification, but this is assumed to be due to additional features being implemented into the logistic regression (momentum and $l_2$-regularization), as a neural network should be able to emulate a logistic regression by using 0 hidden layers. The expectation is that if those features were to be implemented into the neural network, it would be able to outperform all other methods tested.
 
 \section{References}
-[Check out how to refer to web pages. A single URL is not enough.]
 \begin{itemize}
 \item [1] Y. LeCun, L. Bottou, Y. Bengio and P. Haffner: \textit{Gradient-Based Learning Applied to Document Recognition}, Proceedings of the IEEE, 86(11):2278-2324, November 1998, retrieved from http://yann.lecun.com/exdb/mnist/
 \end{itemize}

@@ -1,3 +1,9 @@
+### Updates:
+	2hrs after delivery:	Data for NN classficiation finished processing in full, uploaded files
+	16hrs after delivery:	Removed some notes from report that should have been removed in the first place
+
+
+
 ### Outputs:
 	Initial outputs, from the benchmarking of NeuralNetwork.py, SGD.py, or LogisticRegression.py, are found in parameterValues.
 	Data that has been further analyzed, with dataAnalysis.py (in LaTeX/appendix) are found in LaTeX/appendix/analyzedParameters in text-format or LaTeX/images in image-format
